@@ -1,0 +1,11 @@
+## Router Activation
+The router was configured and activated using Cisco Packet Tracer CLI commands.
+
+### Steps
+1. Entered privileged and global configuration modes.
+2. Assigned an IP address to FastEthernet0/1.
+3. Used `no shutdown` to bring the interface up.
+4. Verified connectivity with `show ip interface brief`.
+
+### Result
+Router interface FastEthernet0/1 is up/up and communicating with the switch.
